@@ -1,0 +1,24 @@
+{
+	".text.html": {
+    "prefix": "html",
+    "body": [ "<!DOCTYPE>",
+			  "<html lang=$1>",
+			  "",
+			  	"<head>",
+				"<meta charset=$2>",
+			  	"<link rel=$3 type=$4 href=$5>",
+				"</head>",
+			  "",
+				"<body>",
+			  "",
+				"</body>",
+			  "",
+		        "<footer>",
+			  "",
+			  	"</footer>",
+			  "",
+			  "</html>",
+			],
+	"description": "Date:18.10.2021, Creates HTML-Structur (VSC), with tab switch to next placeholder: lang>charset>rel>type>href"	
+	}
+}
