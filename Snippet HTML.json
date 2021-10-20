@@ -1,7 +1,7 @@
 {
 	".text.html": {
     "prefix": "html",
-    "body": [ "<!DOCTYPE>",
+    "body": [ 		  "<!DOCTYPE html>",
 			  "<html lang=$1>",
 			  "",
 			  	"<head>",
